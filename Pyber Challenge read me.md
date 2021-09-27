@@ -20,7 +20,7 @@
       ![GitHub Total fares by city](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fare%20by%20cities.PNG)
      	 Format: ![Alt Text](url)
 	2)Total fares city pivot
-      ![GitHub Total fares by cities](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fare%20by%20cities.PNG)
+      ![GitHub Total fares by cities](https://github.com/tpatel0107/Pyber-Analysis/blob/main/Total%20fares%20by%20city%20Pivot.PNG)
 	 Format: ![Alt Text](url)
 	3)Total fares by dates
       ![GitHub Total fare by dates](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fares%20by%20by%20dates.PNG) 
