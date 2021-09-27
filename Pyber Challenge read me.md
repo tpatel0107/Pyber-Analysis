@@ -10,25 +10,24 @@
 	3) Rural areas had the lowest fares , still significant spikes in rates but possibly rates will go down in the future
 
 
-     ![GitHub Graph](/blob/main/graph.PNG?raw=true)
+![GitHub Graph](/blob/main/graph.PNG?raw=true)
 
 	Ride-sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type
 		**Below is the breakdown of each and analysis of the data
 
 	1)Total fares by city-shows us fares by city type
       ![GitHub Total fares by city](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fare%20by%20cities.PNG)
-     	 Format: ![Alt Text](url)
+     	 
 	2)Total fares city pivot
       ![GitHub Total fares by cities](https://github.com/tpatel0107/Pyber-Analysis/blob/main/Total%20fares%20by%20city%20Pivot.PNG)
-	 Format: ![Alt Text](url)
+
 	3)Total fares by dates
       ![GitHub Total fare by dates](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fares%20by%20by%20dates.PNG) 
-          Format: ![Alt Text](url)
+         
 	![Github date time index}(//github.com/tpatel0107/Pyber-Analysis/blob/main/date%20time%20index.PNG)
-         Format: ![Alt Text](url)
+       
          4)Fares sum by week
        ![GitHub Total fares sum by week](////github.com/tpatel0107/Pyber-Analysis/blob/main/fares%20sum%20by%20week.PNG)
-            Format: ![Alt Text](url)
          
 
 # Summary:
