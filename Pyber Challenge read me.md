@@ -35,7 +35,7 @@
 # Summary:
     ** Three Recommendations
 
-There are huge disparieties between the city types: rural, suburband and urban, ridership varies and so does the pricing. 
+There are huge disparieties between the city types: rural, suburban and urban, ridership varies and so does the pricing. 
 	    
         1) I would increase number of drivers in the suburban area.
         2) I would I would charge less in the Urban area and mirror results from Rural area to get ave fare per rider up hence increasing profitibility.
