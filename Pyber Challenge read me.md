@@ -16,7 +16,7 @@
 		**Below is the breakdown of each and analysis of the data
 
 	1)Total fares by city-shows us fares by city type
-      ![GitHub Total fares by city](//github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fare%20by%20cities.PNG)
+     ![GitHub Graph](https://github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fare%20by%20cities.PNG?raw=true)
      	 
 	2)Total fares city pivot
       ![GitHub Total fares by cities](https://github.com/tpatel0107/Pyber-Analysis/blob/main/Total%20fares%20by%20city%20Pivot.PNG)
