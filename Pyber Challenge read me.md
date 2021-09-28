@@ -24,7 +24,7 @@
 	3)Total fares by dates
 ![GitHub Total fare by dates](https://github.com/tpatel0107/Pyber-Analysis/blob/main/total%20fares%20by%20by%20dates.PNG?raw=true) 
          
-![Github date time index}(https://github.com/tpatel0107/Pyber-Analysis/blob/main/date%20time%20index.PNG?raw=true)
+![Github date time index](https://github.com/tpatel0107/Pyber-Analysis/blob/main/date%20time%20index.PNG?raw=true)
        
          4)Fares sum by week
 ![GitHub Total fares sum by week](https://github.com/tpatel0107/Pyber-Analysis/blob/main/fares%20sum%20by%20week.PNG?raw=true)
